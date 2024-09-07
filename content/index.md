@@ -16,4 +16,4 @@ If ever you’ve read one of the entries and find it *interesting* (or if you ha
 
 ## Entries so far …
 
-- [[Luke 17-32|Luke 17:32]] - September 07, 2024
+- [[Luke 17-32|”Remember Lot’s Wife” - Luke 17:32]] - September 07, 2024
