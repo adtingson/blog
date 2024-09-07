@@ -22,9 +22,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Vollkorn",
-        body: "Inter",
-        code: "Consolas",
+        header: Vollkorn,
+        body: Inter,
+        code: Consolas,
       },
       colors: {
         lightMode: {
