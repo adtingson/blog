@@ -17,9 +17,9 @@ interface Colors {
 
 export interface Theme {
   typography: {
-    header: string
-    body: string
-    code: string
+    header: Vollkorn
+    body: Inter
+    code: Consolas
   }
   cdnCaching: boolean
   colors: Colors
