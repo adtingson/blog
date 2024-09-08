@@ -54,6 +54,7 @@ a.internal.tag-link {
   margin: 0 0.1rem;
   border: 1px solid var(--lightgray);
   text-decoration: none;
+  font-size: .75em;
 }
 `
 
