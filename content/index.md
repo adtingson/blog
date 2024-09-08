@@ -10,7 +10,7 @@ Hi! It seems that you have stumbled upon my personal blog. My name is **Albert**
 
 With all that in mind, I have decided to start journaling *again*. But I *really* do have some thoughts that I would *love* to share, but no one to share to, so I stumbled upon some posts and articles about blogs. And *that* led me to start creating one.
 
-If ever you’ve read one of the entries and find it *interesting* (or if you have *violent reactions*), please *feel free* to discuss it further with me. I am usually available online via *Messenger*, *Facebook*, or *Gmail*. (My *contacts* are on the footer *below* 😉)
+If ever you’ve read one of the entries and find it *interesting* (or if you have *violent reactions*), please *feel free* to discuss it further with me. I am usually available online via *Messenger*, *Facebook*, or *Gmail*. (My contacts can also be found at the footer of every page! 😉)
 
 ## Entries So Far …
 
