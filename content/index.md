@@ -9,11 +9,8 @@ Hi! It seems that you have stumbled upon my personal blog. My name is **Albert**
 
 With all that in mind, I have decided to start journaling *again*. But I *really* do have some thoughts that I would *love* to share, but no one to share to, so I stumbled upon some posts and articles about blogs. And *that* led me to start creating one.
 
-If ever you’ve read one of the entries and find it *interesting* (or if you have *violent reactions*), please *feel free* to discuss it further with me. I am usually available online via *Messenger* or *Facebook*.
+If ever you’ve read one of the entries and find it *interesting* (or if you have *violent reactions*), please *feel free* to discuss it further with me. I am usually available online via *Messenger*, *Facebook*, or *GMail*. (My *contacts* are on the footer *below* 😉)
 
-- **Messenger**: Albert Deoraymar Tingson
-- **Facebook**: [Albert Deoraymar Tingson](https://www.facebook.com/profile.php?id=100034452203742)
-
-## Entries so far …
+## Entries So Far …
 
 - [[Luke 17-32|”Remember Lot’s Wife” - Luke 17:32]] - September 07, 2024
