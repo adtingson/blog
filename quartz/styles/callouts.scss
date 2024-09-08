@@ -1,6 +1,10 @@
 @use "./variables.scss" as *;
 @use "sass:color";
 
+.callout-title-inner > p {
+	padding: .10em 0 0;
+}
+
 .callout {
   border: 1px solid var(--border);
   background-color: var(--bg);
@@ -157,6 +161,6 @@
   }
 
   .callout-title-inner {
-    font-weight: $semiBoldWeight;
+    font-weight: $boldWeight;
   }
 }

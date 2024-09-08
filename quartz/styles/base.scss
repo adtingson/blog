@@ -15,12 +15,6 @@ p {
 	padding: .5em;
 }
 
-h2 > a {
-	text-decoration: none;
-	color: var(--dark);
-	font-variant: small-caps;
-}
-
 footer > p {
 	padding: 0;
 }
@@ -106,7 +100,6 @@ a {
 
   &.internal {
     padding: 0 0.1rem;
-    border-radius: 0.7rem;
     line-height: 1.4rem;
 
     &:has(> img) {
@@ -301,7 +294,7 @@ blockquote {
 }
 
 h1 {
-  font-family: "Volkorn" !important;
+  font-family: var(--headerFont);
   font-variant: small-caps;
   color: var(--dark);
   font-weight: revert;
@@ -314,7 +307,7 @@ h1 {
 }
 
 h2 {
-  font-family: "Volkorn" !important;
+  font-family: var(--headerFont);
   color: var(--dark);
   font-weight: revert;
   margin-bottom: 0;

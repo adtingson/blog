@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Albert's Personal Blog",
+    pageTitle: "🍃 Albert’s Garden",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       typography: {
         header: "Vollkorn",
         body: "Inter",
-        code: "Consolas",
+        code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
@@ -39,11 +39,11 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
+          light: "#232937",
+          lightgray: "#31343a",
           gray: "#80C2D6",
           darkgray: "#fffef9",
-          dark: "##fffef9",
+          dark: "#fffef9",
           secondary: "#E6E682",
           tertiary: "#F38982",
           highlight: "rgba(143, 159, 169, 0.15)",

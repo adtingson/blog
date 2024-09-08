@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       Facebook: "https://www.facebook.com/profile.php?id=100034452203742",
-      GMail: "mailto:tingsonalbert@gmail.com",
+      Gmail: "mailto:tingsonalbert@gmail.com",
 	  Messenger: "https://m.me/profile.php?id=100034452203742",
     },
   }),
@@ -33,6 +33,17 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+  ],
+  afterBody: [
+	Component.Graph({
+		localGraph: {
+		scale: 1.1,
+			showTags: false,
+		},
+		globalGraph: {
+			showTags: false,
+		},
+	}),
   ],
 }
 

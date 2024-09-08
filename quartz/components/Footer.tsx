@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-			<b>Contact Me!</b>
+			<b>Contact Me 😊</b>
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
