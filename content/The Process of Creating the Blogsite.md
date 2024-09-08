@@ -16,7 +16,7 @@ When I first started journaling, I started with the *analog* method of writing o
 Even though I have quit *multiple times*, I still find myself *wanting* to make journals or document my day at least. So, I kept on *trying* again and again from time to time. And ever the tinkering type, I tried to make my process *leaner*, more *efficient*, and more *convenient* for me. I went from writing *longform journals* on my notebooks, to *Bullet Journaling*, to transferring my Bullet Journal to my PC, and the process kept on until I finally have established *my own way* of Bullet Journaling using my phone.
 
 > [!info] Quick Side Note: **Bullet Journaling**
-> **Bullet Journaling**, or also known as *BuJo*, is a journaling method that uses different types of *bullet points* to organize thoughts, tasks, plans, and ideas. I’ll write something about this soon, because it is so good 🤏🏼🤏🏼🤏🏼
+> **Bullet Journaling**, or also known as *BuJo*, is a journaling method that uses different types of *bullet points* to organize thoughts, tasks, plans, and ideas. I’ll write something about this soon, because it is so good 🤌🏼🤌🏼🤌🏼
 
 After a *long* process of trial and error, I have *finally* created a system that I can continuously work on no matter the *excuse* I can think of. I am so lazy, but *equally* smart 😌 (I’ll write about that process at some point 😉)
 
