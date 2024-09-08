@@ -22,7 +22,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Vollkorn SC",
+        header: "Vollkorn",
         body: "Inter",
         code: "Consolas",
       },
