@@ -10,7 +10,6 @@ tags:
   - lies
 date: 2024-09-09
 ---
-
 > [!quote] **Hachiman Hikigaya** - *OreGairu*
 > *I hate nice girls*. If they so much as say *hello*, it stays on my mind. If they return *texts*, my heart races. The day one calls me, I know I'll look at my call history and *grin*. But that's just them *being nice*. People who are nice to me are also nice to everyone else. I almost end up forgetting that. If the truth is cruel, *then lies must be kind*. That's why kindness is a *lie*. I gave up on always expecting it, always mistaking it, and even *hoping* for it. Someone who’s worked so hard at being alone doesn't fall for the same trick twice. I'm a *veteran* at this. I’m the best when it comes to *losing*. That's why *I'll always hate nice girls*.
 
