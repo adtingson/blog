@@ -20,12 +20,12 @@ Even though I have quit *multiple times*, I still find myself *wanting* to make 
 
 After a *long* process of trial and error, I have *finally* created a system that I can continuously work on no matter the *excuse* I can think of. I am so lazy, but *equally* smart 😌 (I’ll write about that process at some point 😉)
 
-Now that the habit of journaling everyday, no matter the day, *finally* stuck, I faced another challenge – I am getting *too used to it*. I wanted to challenge myself of what else I can do about my thoughts that would be both *productive* and *creative*. I also wanted to write some longform entries, but I already know from experience that I’ll either get *bored* of it, or *too busy* to actually be *interested* in it. That is when a well-timed post from Reddit came across my feed which talked about blogging or *Online Gardens* as they refer to it in the *Obsidian Community*.
+Now that the habit of journaling everyday, no matter the day, *finally* stuck, I faced another challenge – I am getting *too used to it*. I wanted to challenge myself of what else I can do about my thoughts that would be both *productive* and *creative*. I also wanted to write some longform entries, but I already know from experience that I’ll either get *bored* of it, or *too busy* to actually be *interested* in it. That is when a well-timed post from Reddit came across my feed which talked about blogging or *Digital Gardens* as they refer to it in the *Obsidian Community*.
 
 > [!info] Another Quick Side Note: **Obsidian**
 > **Obsidian** is a note-taking app that functions mostly as a *Personal Knowledge Management* (PKM) tool than a productivity tool. I discovered it when I was still in college and I still use it at work, life, or in almost anything that need notes or writing.
 
-Since the post was from the Obsidian Community, they have elaborated ways on how to convert *Obsidian notes* into these *Online Gardens*. This was perfect for me since I can make writing more interesting because it now combines both Obsidian and a *new technical challenge*, converting these *Markdown* notes into a website! Awesome!******
+Since the post was from the Obsidian Community, they have elaborated ways on how to convert *Obsidian notes* into these *Digital Gardens*. This was perfect for me since I can make writing more interesting because it now combines both Obsidian and a *new technical challenge*, converting these *Markdown* notes into a website! Awesome!
 
 > [!info] Another Quick Side Note Haha: **Markdown**
 > **Markdown** is a programming language that acts like a *shorthand* for *HTML*. Instead of writing *coded tags* to format text, it uses symbols, like *asterisks* and *hashtags*, so it is still *readable* in its raw form but *beautiful* its processed form.
