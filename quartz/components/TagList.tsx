@@ -55,6 +55,7 @@ a.internal.tag-link {
   border: 1px solid var(--lightgray);
   text-decoration: none;
   font-size: .75em;
+  color: var(--darkgray);
 }
 `
 
