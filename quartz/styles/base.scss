@@ -2,19 +2,13 @@
 @use "./syntax.scss";
 @use "./callouts.scss";
 @use "./fonts.scss";
-@use "./twemoji.scss";
+@use "./blobmoji.scss";
 
 html {
   scroll-behavior: smooth;
   text-size-adjust: none;
   overflow-x: hidden;
   width: 100vw;
-  font-family: "Inter";
-}
-
-body {
-	--bodyFont: "Inter",-apple-system,BlinkMacSystemFont,"Segoe UI",Twemoji,Helvetica,Arial,sans-serif;
-	--headerFont: "Vollkorn",-apple-system,BlinkMacSystemFont,"Segoe UI",Twemoji,Helvetica,Arial,sans-serif;
 }
 
 p {
