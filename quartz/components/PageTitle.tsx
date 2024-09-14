@@ -23,6 +23,7 @@ PageTitle.css = `
 	text-decoration: none;
 	color: var(--dark);
 	font-variant: small-caps;
+	overflow-wrap: normal;
 }
 `
 
