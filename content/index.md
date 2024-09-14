@@ -29,7 +29,7 @@ If ever you’ve read one of the entries and find it *interesting* (or if you ha
 
 ## News
 
-- Added the <a href="/%F0%9F%A4%AF-Archive-of-Infos/">🤯 Archive of Infos</a>
+- Added the <a href="/%F0%9F%A4%AF-Archive-of-Infos/">🤯 Archive of Infos</a> - September 15, 2024
 	- This contains all the *atomic notes* I create/gather throughout my days
 	- I have lost a lot of my older notes but these are still a handful 😅
 	- These contains shops, games, and other (*might be*) useful info
