@@ -7,7 +7,6 @@ tags:
   - philosophy
 date: 2024-09-15
 ---
-
 > [!warning] TL;DR.
 > We don’t. But you can just make it better for you.
 
