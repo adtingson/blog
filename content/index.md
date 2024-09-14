@@ -1,5 +1,5 @@
 ---
-title: 👋🏼 Welcome!
+title: 🙋 Welcome!
 draft: false
 tags:
   - welcome
@@ -14,10 +14,21 @@ With all that in mind, I have decided to start journaling *again*. But I *really
 
 If ever you’ve read one of the entries and find it *interesting* (or if you have *violent reactions*), please *feel free* to discuss it further with me. I am usually available online via *Messenger*, *Facebook*, or *Gmail*. (My contacts can also be found at the footer of every page! 😉)
 
+## Highlights
+
+- My *favorite* board game: [[Root Game|Root: A Game of Woodland Might and Right ⚔️🌲]]
+
 ## Entries So Far …
 
 - [[emojis|🤪 Emojis!]] - September 13, 2024
 - [[I don't like nice girls|💔 I Don't Like Nice Girls]] - September 09, 2024
 - [[Why not facebook|😴 Why Not Use Social Media Instead?]] - September 08, 2024
-- [[The Process of Creating the Blogsite|✍🏼 How the Blog was Created]] - September 08, 2024
+- [[The Process of Creating the Blogsite|✏️ How the Blog was Created]] - September 08, 2024
 - [[Luke 17-32|📖 “Remember Lot’s Wife” - Luke 17:32]] - September 07, 2024
+
+## News
+
+- Added the <a href="/%F0%9F%A4%AF-Archive-of-Infos/">🤯 Archive of Infos</a>
+	- This contains all the *atomic notes* I create/gather throughout my days
+	- I have lost a lot of my older notes but these are still a handful 😅
+	- These contains shops, games, and other (*might be*) useful info

@@ -409,6 +409,7 @@ pre {
   overflow-x: auto;
   border: 1px solid var(--lightgray);
   position: relative;
+  overflow-x: scroll;
 
   &:has(> code.mermaid) {
     border: none;
@@ -422,7 +423,6 @@ pre {
     counter-increment: line 0;
     display: grid;
     padding: 0.5rem 0;
-    overflow-x: scroll;
 
     & [data-highlighted-chars] {
       background-color: var(--highlight);

@@ -24,11 +24,11 @@ const config: QuartzConfig = {
       typography: {
         header: "Vollkorn",
         body: "Inter",
-        code: "IBM Plex Mono",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
-          light: "#fff",
+          light: "#FAFAFA",
           lightgray: "#e5e5e5",
           gray: "#000",
           darkgray: "#000",
