@@ -20,6 +20,7 @@ If ever you’ve read one of the entries and find it *interesting* (or if you ha
 
 ## Entries So Far …
 
+- [[work work work|🤔 How to Win in Life?]] - September 15, 2024
 - [[emojis|🤪 Emojis!]] - September 13, 2024
 - [[I don't like nice girls|💔 I Don't Like Nice Girls]] - September 09, 2024
 - [[Why not facebook|😴 Why Not Use Social Media Instead?]] - September 08, 2024
