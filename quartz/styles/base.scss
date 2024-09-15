@@ -93,11 +93,13 @@ a {
   text-decoration: underline;
   transition: color 0.2s ease;
   color: var(--secondary);
+  text-underline-offset: 0.25em;
 
   &:hover {
-    color: var(--tertiary) !important;
+    color: var(--secondary) !important;
+	font-weight: $boldWeight;
   }
-
+  
   &.internal {
     padding: 0 0.1rem;
     line-height: 1.4rem;

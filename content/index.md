@@ -18,7 +18,7 @@ If ever you’ve read one of the entries and find it *interesting* (or if you ha
 
 - My *favorite* board game: [[Root Game|Root: A Game of Woodland Might and Right ⚔️🌲]]
 
-## Entries So Far …
+## Entries So Far…
 
 - [[how to win in life|🤔 How to Win in Life?]] - September 15, 2024
 - [[emojis|🤪 Emojis!]] - September 13, 2024

@@ -24,16 +24,16 @@ const config: QuartzConfig = {
       typography: {
         header: "Vollkorn",
         body: "Inter",
-        code: "JetBrains Mono",
+        code: "Hack",
       },
       colors: {
         lightMode: {
-          light: "#FAFAFA",
+          light: "#FFF",
           lightgray: "#e5e5e5",
           gray: "#000",
-          darkgray: "#000",
-          dark: "#000",
-          secondary: "#000",
+          darkgray: "#10161A",
+          dark: "#A32121",
+          secondary: "#2D9DE3",
           tertiary: "#000",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
