@@ -96,8 +96,7 @@ a {
   text-underline-offset: 0.25em;
 
   &:hover {
-    color: var(--secondary) !important;
-	font-weight: $boldWeight;
+    color: var(--tertiary) !important;
   }
   
   &.internal {
@@ -296,7 +295,6 @@ blockquote {
 }
 
 h1 {
-  font-family: var(--headerFont);
   font-variant: small-caps;
   color: var(--dark);
   font-weight: revert;
@@ -309,7 +307,6 @@ h1 {
 }
 
 h2 {
-  font-family: var(--headerFont);
   color: var(--dark);
   font-weight: revert;
   margin-bottom: 0;

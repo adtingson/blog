@@ -27,3 +27,25 @@ li::marker {
 ::-webkit-scrollbar-thumb:hover {
   background: #555; 
 }
+
+/* Headings */
+h1,
+h2 {
+	font-weight: 600;
+}
+
+body {
+	--custom-headerFont: Hack, Blobs, Blobmoji;
+}
+
+h1 {
+	font-family: var(--headerFont);
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: var(--custom-headerFont);
+}
