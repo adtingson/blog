@@ -18,6 +18,7 @@ PageTitle.css = `
   font-size: 1.75rem;
   margin: 0;
   overflow-wrap: normal;
+  font-family: var(--headerFont);
 }
 
 .page-title > a {
