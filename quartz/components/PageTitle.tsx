@@ -24,7 +24,6 @@ PageTitle.css = `
 .page-title > a {
 	text-decoration: none;
 	color: var(--dark);
-	font-variant: small-caps;
 	overflow-wrap: normal;
 }
 `

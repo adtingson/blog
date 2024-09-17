@@ -22,8 +22,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Vollkorn",
-        body: "Inter",
+        header: "Hack",
+        body: "Public Sans",
         code: "Hack",
       },
       colors: {

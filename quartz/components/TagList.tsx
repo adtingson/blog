@@ -56,6 +56,7 @@ a.internal.tag-link {
   text-decoration: none;
   font-size: .75em;
   color: var(--darkgray);
+  font-family: var(--codeFont);
 }
 `
 
