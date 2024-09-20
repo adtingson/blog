@@ -7,6 +7,6 @@ tags:
   - starbucks
   - to-work-on
   - 🌱seedling
-date:
+date: 2024-08-15
 ---
 - Check [this](https://www.facebook.com/share/wqtgZcVfJunhJKf8/?mibextid=WC7FNe) 😉
