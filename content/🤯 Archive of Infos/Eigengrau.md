@@ -6,6 +6,7 @@ tags:
   - definition
   - german
   - color
+  - 🌱seedling
 date: 2024-08-15
 ---
 - Pronounced: Ay-gen-graw

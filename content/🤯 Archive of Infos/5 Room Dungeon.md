@@ -7,6 +7,7 @@ tags:
   - how-to
   - tips-n-tricks
   - world-building
+  - 🌱seedling
 date: 2024-09-15
 ---
 ## Room 1: The Entrance

@@ -6,6 +6,7 @@ tags:
   - philosophy
   - survival
   - game-skill
+  - 🌱seedling
 date: 2023-01-07
 ---
 - **Game Theory** was first invented by *John von Neumann* to model economics by studying zero-sum games. The first paper published was on 1928.

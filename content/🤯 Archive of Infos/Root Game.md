@@ -5,6 +5,7 @@ tags:
   - game
   - board-game
   - assymetric
+  - 🌱seedling
 date: 2024-09-15
 ---
 ![[root1.png]]

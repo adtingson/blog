@@ -5,6 +5,7 @@ tags:
   - life
   - relationship
   - philosophy
+  - 🌱seedling
 date: 2022-12-11
 ---
 > [!quote] Paraphrased from *Slater Young*'s Podcast

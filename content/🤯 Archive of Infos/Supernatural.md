@@ -11,6 +11,7 @@ tags:
   - drama
   - favorites
   - must-watch
+  - 🌿budding
 date: 2024-08-01
 ---
 - my favorite show when I watched all 15 seasons during 2024

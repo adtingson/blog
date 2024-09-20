@@ -4,6 +4,7 @@ draft: false
 tags:
   - life
   - philosophy
+  - 🌱seedling
 date: 2022-12-15
 ---
 Based on a story about *Plato*. He was told a gossip about his friend and before listening, he asked if it passes the “*3 Sieve Test*.”

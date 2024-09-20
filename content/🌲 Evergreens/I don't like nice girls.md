@@ -2,12 +2,11 @@
 title: 💔 I Don't Like Nice Girls
 draft: false
 tags:
-  - blog
-  - entry
   - anime
   - quotes
   - romance
   - lies
+  - 🌲evergreen
 date: 2024-09-09
 ---
 > [!quote] **Hachiman Hikigaya** - *OreGairu*

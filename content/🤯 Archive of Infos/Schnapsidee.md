@@ -5,6 +5,7 @@ tags:
   - word
   - definition
   - german
+  - 🌱seedling
 date: 2024-08-15
 ---
 - Pronounced: Sh-naps-idee

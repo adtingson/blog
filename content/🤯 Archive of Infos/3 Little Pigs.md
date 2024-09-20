@@ -7,6 +7,7 @@ tags:
   - lechon
   - belly-lechon
   - orders
+  - 🌱seedling
 date: 2022-11-30
 ---
 - Best belly lechon in Dumaguete 😙

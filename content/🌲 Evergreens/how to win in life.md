@@ -2,9 +2,8 @@
 title: 🤔 How to Win in Life?
 draft: false
 tags:
-  - blog
-  - entry
   - philosophy
+  - 🌲evergreen
 date: 2024-09-15
 ---
 > [!warning] TL;DR.

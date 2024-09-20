@@ -5,6 +5,7 @@ tags:
   - tech
   - windows
   - alternative
+  - 🌱seedling
 date: 2024-09-16
 ---
 - This is a lightweight *Windows 11 alternative*

@@ -11,6 +11,7 @@ tags:
   - monsters
   - party
   - rpg
+  - 🌱seedling
 date: 2022-11-30
 ---
 ![[heretoslay1.png]]

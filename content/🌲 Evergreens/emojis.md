@@ -2,10 +2,9 @@
 title: 🤪 Emojis!
 draft: false
 tags:
-  - blog
-  - entry
   - random
   - emoji
+  - 🌲evergreen
 date: 2024-09-13
 ---
 > Do you still remember those Android emojis from 2015? Those blobs with *cute* expressions? I miss those emojis 🥺

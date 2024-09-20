@@ -7,6 +7,7 @@ tags:
   - fun-fact
   - eyes
   - optics
+  - 🌱seedling
 date:
 ---
 - A *photoreceptor* of the eye

@@ -6,6 +6,7 @@ tags:
   - for-work
   - sheets-formula
   - get-URL
+  - 🌱seedling
 date: 2024-08-15
 ---
 ## Code for AppScripts

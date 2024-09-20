@@ -2,13 +2,12 @@
 title: ✏️ How the Blog was Created
 draft: false
 tags:
-  - blog
   - obsidian
   - quartz
-  - entry
-  - trialAndError
   - motivation
   - perspective
+  - trial-and-error
+  - 🌲evergreen
 date: 2024-09-08
 ---
 When I first started journaling, I started with the *analog* method of writing on a *notebook* with a pen. That was good for some time, but personally, I am someone who has a *hard time* continuing habits if they prove to be *inconvenient*, *unenjoyable*, or *uninteresting* especially if I don't see much *benefits* to my current situation. (Yup, I am one of those types that get unmotivated easily. I hope I change soon 😅)

@@ -8,6 +8,7 @@ tags:
   - tradition
   - combat
   - etiquette
+  - 🌱seedling
 date: 2024-08-15
 ---
 - literal meaning: “to say one’s name”

@@ -2,23 +2,33 @@
 title: 🙋 Welcome!
 draft: false
 tags:
+  - MOC
+  - home
   - welcome
-  - blog
-date: 2024-09-07
+date: 2024-09-20
 ---
-> [!warning] I am working on weekdays, but I still write articles. I’ll upload them in batches during weekends 🙂
+Hi! Welcome to my [[Digital Garden]]. I created this originally to share my thoughts and ideas about things that I find interesting to share 😁 I started writing this on *September 07, 2024* as a *side-project during my restdays* from work, and is supposed to be *blog* as you can see in this [[Read Me]]. But things took a turn ever since *September 15* when I first uploaded my [[Atomic Notes]] notes found in the <a href="/%F0%9F%A4%AF-Archive-of-Infos/">🤯 Archive of Infos</a>. I have decided to *transform* my blog into a *Digital Garden* instead.
 
-Hi! It seems that you have stumbled upon my personal blog. My name is **Albert**. *Most of the time*, I am either busy physically or mentally, but I do *love* a good *conversation*. I do have a very unapproachable look when I am doing something, so most people *avoid* talking to me, and when I am not doing something, I am usually thinking about something that is interesting to *me*. Most of the thoughts I have during that time, I would *really love* to share. The problem is that whenever I am not doing anything, I usually don’t have anyone to talk to anymore, *e.g.* work’s over.
+## Navigating
 
-With all that in mind, I have decided to start journaling *again*. But I *really* do have some thoughts that I would *love* to share, but no one to share to, so I stumbled upon some posts and articles about blogs. And *that* led me to start creating one.
+Since this is a “*Garden*,” you might find the organization of the files to be *messy*, and that is by design. Unlike structured wikis or blogs, *Digital Gardens* are designed to be navigated *via links* found in every note 🤓 So for example, if you find a link interesting while reading, you can just click on that an read about it 😊 Each note is an [[Atomic Notes|Atomic Note]] so navigating a digital garden is *like navigating the neural pathways* of your brain 🤯 And speaking of brains, Digital Gardens act like a *second brain*, that is why it is navigated that way.
 
-If ever you’ve read one of the entries and find it *interesting* (or if you have *violent reactions*), please *feel free* to discuss it further with me. I am usually available online via *Messenger*, *Facebook*, or *Gmail*. (My contacts can also be found at the footer of every page! 😉)
+As the notes build up, themes, patterns, generalizations, or groups start to form. These grouping will be called “*Maps of Content*” as they act like *anchor points for these other ideas*. So, just like your brain, *the more you build on it*, the *easier* it is *to navigate* around.
+
+But to start, here are a few tags to start with:
+- <a href="/tags/🌱seedling">🌱seedling</a> - These notes are barely just ideas. They need to grow.
+- <a href="/tags/🌿budding">🌿budding</a> - These are ideas that are starting to develop into something.
+- <a href="/tags/🌲evergreen">🌲evergreen</a> - This is the goal. The ideas need to be built or grown into something you can consider to be finished, completed, or concluded.
 
 ## Highlights
 
+This is where I would place things that I like people *to read or checkout*. Mostly my *close-to-heart interests*.
+
 - My *favorite* board game: [[Root Game|Root: A Game of Woodland Might and Right ⚔️🌲]]
 
-## Entries So Far…
+## Essays So Far…
+
+Here are also some of the first <a href="/tags/🌲evergreen">🌲evergreen</a> notes I have. These were originally part of my blog 😅
 
 - [[how to win in life|🤔 How to Win in Life?]] - September 15, 2024
 - [[emojis|🤪 Emojis!]] - September 13, 2024
@@ -29,7 +39,10 @@ If ever you’ve read one of the entries and find it *interesting* (or if you ha
 
 ## News
 
-- Added the <a href="/%F0%9F%A4%AF-Archive-of-Infos/">🤯 Archive of Infos</a> - September 15, 2024
-	- This contains all the *atomic notes* I create/gather throughout my days
+Relevant timeline updates!! 🥳
+
+- Started transforming the blog into a [[Digital Garden]] - **September 20, 2024**
+- Added the <a href="/%F0%9F%A4%AF-Archive-of-Infos/">🤯 Archive of Infos</a> - **September 15, 2024**
+	- This contains all the [[Atomic Notes]] I create/gather throughout my days
 	- I have lost a lot of my older notes but these are still a handful 😅
-	- These contains shops, games, and other (*might be*) useful info
+	- These contains shops, games, ideas and other (*might be*) useful info

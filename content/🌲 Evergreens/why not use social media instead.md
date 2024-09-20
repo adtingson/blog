@@ -2,11 +2,10 @@
 title: 😴 Why Not Use Social Media Instead?
 draft: false
 tags:
-  - blog
-  - entry
-  - socialMedia
   - skills
   - answers
+  - social-media
+  - 🌲evergreen
 date: 2024-09-08
 ---
 Since I have decided to create this blog, a question *popped* into my mind, “*Why not use facebook instead?*” And it is a *valid* question really.

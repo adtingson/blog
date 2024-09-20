@@ -2,7 +2,6 @@
 title: 😊 Contact Me
 draft: false
 tags:
-  - blog
   - contacts
 date: 2024-09-09
 ---
