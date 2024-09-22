@@ -2,11 +2,11 @@
 title: Color Scheme Idea
 draft: false
 tags:
-  - 🌱seedling
   - design
   - css
   - color
   - color-scheme
+  - 🌿budding
 date: 2024-09-22
 ---
 ## BnW (Light Mode)
@@ -19,3 +19,11 @@ date: 2024-09-22
 	- **Headers**: 0C090A (*night*)
 	- **Text**: 454545 (*light black*)
 	- **Background**: fff (*white*)
+
+## Slightly Colored BnW (Light Mode)
+- **Background**: fff (*white*)
+- **Text**: 454545 (*light black*)
+- **Headers**: 0C090A (*night*)
+- **Links**: D2A92D (*dark yellow*)
+- **Italics**: 2D6286 (*dark desat blue*)
+- **Bold**: 86332D (*dark desat red*)
