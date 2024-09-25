@@ -1,12 +1,4 @@
 @use "./base.scss";
-/* circular bullets */
-li {
-	list-style-type: disc;
-}
-/* colored bullets */
-li::marker {
-	color: var(--lightgray);
-}
 
 /* Scrollbar */
 /* width */
@@ -50,4 +42,15 @@ body {
 	--bodyFont: "Public Sans",Blobs,Blobmoji;
 	--headerFont: "Hack",Blobs,Blobmoji;
 	--codeFont: "Hack",Blobs,Blobmoji;
+}
+
+/* List Stylings*/
+
+/* circular bullets*/
+li {
+	list-style-type: disc;
+}
+/* colored bullets */
+li::marker {
+	color: var(--lightgray);
 }

@@ -24,6 +24,6 @@ date: 2024-09-22
 - **Background**: fff (*white*)
 - **Text**: 454545 (*light black*)
 - **Headers**: 0C090A (*night*)
-- **Links**: D2A92D (*dark yellow*)
+- **Links**: 2D862D (*dark desat greeen*)
 - **Italics**: 2D6286 (*dark desat blue*)
 - **Bold**: 86332D (*dark desat red*)
