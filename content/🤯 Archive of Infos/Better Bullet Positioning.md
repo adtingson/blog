@@ -30,7 +30,7 @@ article.popover-hint ul li {
 ```css
 article.popover-hint ul li::before {
     content: "\2022 "; // bullet point code
-    color: var(--darkgray); // coloring
+    color: var(--lightgray); // coloring
     font-size: 1.5rem; // sizing
 }
 ```

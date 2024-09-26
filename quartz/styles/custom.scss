@@ -51,18 +51,17 @@ li {
 	list-style-type: disc;
 }
 /* colored bullets */
-/*
+
 li::marker {
 	color: var(--lightgray);
 }
-*/
 
 /* Customized Position for Bullets */
 article.popover-hint ul li::before {
 	content: "\2022 ";
 	margin-left: -1rem;
 	float: left;
-	color: var(--darkgray);
+	color: var(--lightgray);
 	font-size: 1.5rem;
 }
 
@@ -75,7 +74,11 @@ article.popover-hint li:has(>input[type=checkbox]:checked) {
 	text-decoration: none;
 }
 
-/* Minor Correction For Popovers Giving Tags a Bullet */
-div.popover ul.tags li::before {
+/* Minor Correction For Popovers and Sections Giving Tags a Bullet */
+div.popover ul.tags li::before, ul.section-ul li.section-li::before {
 	content: none;
+}
+
+ul.section-ul li.section-li {
+	list-style-type: none;
 }
