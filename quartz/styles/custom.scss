@@ -51,6 +51,26 @@ li {
 	list-style-type: disc;
 }
 /* colored bullets */
+/*
 li::marker {
 	color: var(--lightgray);
+}
+*/
+
+/* Customized Position for Bullets */
+article.popover-hint ul li::before {
+	content: "\2022 ";
+	margin-left: -1rem;
+	float: left;
+	color: var(--darkgray);
+	font-size: 1.5rem;
+}
+
+article.popover-hint ul li {
+	list-style-type: none;
+}
+
+/* Remove strikethrough from checklists */
+article.popover-hint li:has(>input[type=checkbox]:checked) {
+	text-decoration: none;
 }
