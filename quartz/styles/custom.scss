@@ -74,3 +74,8 @@ article.popover-hint ul li {
 article.popover-hint li:has(>input[type=checkbox]:checked) {
 	text-decoration: none;
 }
+
+/* Minor Correction For Popovers Giving Tags a Bullet */
+div.popover ul.tags li::before {
+	content: none;
+}
