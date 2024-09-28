@@ -82,3 +82,13 @@ div.popover ul.tags li::before, ul.section-ul li.section-li::before {
 ul.section-ul li.section-li {
 	list-style-type: none;
 }
+
+/* Color Correction for Checked Items */
+.page article li:has(>input[type=checkbox]:checked) {
+	color: var(--darkgray);
+}
+
+/* Center H1 and Make it small-caps*/
+h1 {
+	font-variant: small-caps;
+}
