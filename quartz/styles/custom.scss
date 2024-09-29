@@ -123,3 +123,10 @@ footer ul {
 footer ul li {
 	list-style-type: none;
 }
+
+/* blockquotes */
+blockquote {
+	margin: 1.5rem 0;
+	border-left: 0.5rem solid var(--secondary);
+	background-color: color-mix(in srgb, var(--secondary) 10%, transparent);
+}

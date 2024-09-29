@@ -5,10 +5,15 @@
 	padding: .10em 0 0;
 }
 
+/* Backup just in case I mess up
 .callout {
   border: 1px solid var(--border);
+*/
+
+.callout {
+  border-left: 0.5em solid var(--border);
   background-color: var(--bg);
-  border-radius: 5px;
+  border-radius: 0;
   padding: 0 1rem;
   overflow-y: hidden;
   transition: max-height 0.3s ease;
