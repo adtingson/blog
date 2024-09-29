@@ -1,5 +1,5 @@
 ---
-title: 🖋️ Inter
+title: Inter 🖋️
 draft: false
 tags:
   - 🌱seedling

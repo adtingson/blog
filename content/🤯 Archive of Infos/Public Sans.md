@@ -1,5 +1,5 @@
 ---
-title: 🖋️ Public Sans
+title: Public Sans 🖋️
 draft: false
 tags:
   - 🌱seedling

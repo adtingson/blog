@@ -1,5 +1,5 @@
 ---
-title: 🖥️ Tiny11
+title: Tiny11 🖥️
 draft: false
 tags:
   - tech

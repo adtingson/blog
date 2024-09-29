@@ -1,5 +1,5 @@
 ---
-title: 🖋️ Hack
+title: Hack 🖋️
 draft: false
 tags:
   - 🌱seedling

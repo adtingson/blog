@@ -1,5 +1,5 @@
 ---
-title: ✏️ How the Blog was Created
+title: How was the Blog was Created? ✏️
 draft: false
 tags:
   - obsidian

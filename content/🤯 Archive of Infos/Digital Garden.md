@@ -1,5 +1,5 @@
 ---
-title: 🪴 Digital Garden
+title: Digital Garden 🪴
 draft: false
 tags:
   - 🌱seedling

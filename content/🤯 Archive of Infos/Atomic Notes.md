@@ -1,5 +1,5 @@
 ---
-title: 🗒️ Atomic Notes
+title: Atomic Notes 🗒️
 draft: false
 tags:
   - 🌱seedling

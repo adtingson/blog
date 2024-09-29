@@ -1,5 +1,5 @@
 ---
-title: 🙋 Welcome!
+title: Welcome 🙋
 draft: false
 tags:
   - MOC
@@ -31,12 +31,12 @@ This is where I would place things that I like people *to read or checkout*. Mos
 
 Here are also some of the first <a href="/tags/🌲evergreen">🌲evergreen</a> notes I have. These were originally part of my blog 😅
 
-- [[how to win in life|🤔 How to Win in Life?]] - September 15, 2024
-- [[emojis|🤪 Emojis!]] - September 13, 2024
-- [[I don't like nice girls|💔 I Don't Like Nice Girls]] - September 09, 2024
-- [[why not use social media instead|😴 Why Not Use Social Media Instead?]] - September 08, 2024
-- [[how the blog was created|✏️ How the Blog was Created]] - September 08, 2024
-- [[Luke 17-32|📖 “Remember Lot’s Wife” - Luke 17:32]] - September 07, 2024
+- [[how to win in life|How to Win in Life? 🤔]] - September 15, 2024
+- [[emojis|Emojis! 🤪]] - September 13, 2024
+- [[I don't like nice girls|Why Not Like Nice Girls? 💔]] - September 09, 2024
+- [[why not use social media instead|Why Not Use Social Media Instead? 😴]] - September 08, 2024
+- [[how the blog was created|How was the Blog was Created? ✏️]] - September 08, 2024
+- [[Luke 17-32|“Remember Lot’s Wife” - Luke 17:32 📖]] - September 07, 2024
 
 ## News
 

@@ -1,5 +1,5 @@
 ---
-title: 🤔 How to Win in Life?
+title: How to Win in Life? 🤔
 draft: false
 tags:
   - philosophy

@@ -1,5 +1,5 @@
 ---
-title: ❤️ The Pint and the Teacup
+title: The Pint and the Teacup ❤️
 draft: false
 tags:
   - 🌱seedling

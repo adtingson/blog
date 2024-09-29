@@ -1,5 +1,5 @@
 ---
-title: 🖋️ Vollkorn
+title: Vollkorn 🖋️
 draft: false
 tags:
   - 🌱seedling

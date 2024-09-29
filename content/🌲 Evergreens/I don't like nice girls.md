@@ -1,5 +1,5 @@
 ---
-title: 💔 I Don't Like Nice Girls
+title: Why Not Like Nice Girls? 💔
 draft: false
 tags:
   - anime

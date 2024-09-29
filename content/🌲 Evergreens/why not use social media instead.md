@@ -1,5 +1,5 @@
 ---
-title: 😴 Why Not Use Social Media Instead?
+title: Why Not Use Social Media Instead? 😴
 draft: false
 tags:
   - skills

@@ -1,5 +1,5 @@
 ---
-title: 🤪 Emojis!
+title: Emojis! 🤪
 draft: false
 tags:
   - random

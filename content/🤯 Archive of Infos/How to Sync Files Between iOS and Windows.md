@@ -1,5 +1,5 @@
 ---
-title: 😏 How to Sync Files Between iOS and Windows?
+title: How to Sync Files Between iOS and Windows? 😏
 draft: false
 tags:
   - 🌱seedling
