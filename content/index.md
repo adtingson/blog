@@ -41,7 +41,6 @@ Here are also some of the first <a href="/tags/🌲evergreen">🌲evergreen</a> 
 ## News
 
 Relevant timeline updates!! 🥳
-<br>
 - Changed the **theme of the site**! - September 29, 2024
 - Started transforming the blog into a [[Digital Garden]] - September 20, 2024
 - Added the <a href="/%F0%9F%A4%AF-Archive-of-Infos/">🤯 Archive of Infos</a> - September 15, 2024

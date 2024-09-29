@@ -114,3 +114,12 @@ p {
 p:has(+ ul) {
 	margin-bottom: 0;
 }
+
+/* footer fix */
+footer ul {
+	margin-top: 0;
+}
+
+footer ul li {
+	list-style-type: none;
+}
