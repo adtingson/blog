@@ -41,9 +41,10 @@ Here are also some of the first <a href="/tags/🌲evergreen">🌲evergreen</a> 
 ## News
 
 Relevant timeline updates!! 🥳
-
-- Started transforming the blog into a [[Digital Garden]] - **September 20, 2024**
-- Added the <a href="/%F0%9F%A4%AF-Archive-of-Infos/">🤯 Archive of Infos</a> - **September 15, 2024**
+<br>
+- Changed the **theme of the site**! - September 29, 2024
+- Started transforming the blog into a [[Digital Garden]] - September 20, 2024
+- Added the <a href="/%F0%9F%A4%AF-Archive-of-Infos/">🤯 Archive of Infos</a> - September 15, 2024
 	- This contains all the [[Atomic Notes]] I create/gather throughout my days
 	- I have lost a lot of my older notes but these are still a handful 😅
 	- These contains shops, games, ideas and other (*might be*) useful info
