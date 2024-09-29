@@ -5,7 +5,7 @@ tags:
   - 🌱seedling
   - design
   - web-development
-date:
+date: 2024-09-22
 ---
 ## Alternative Process
 
