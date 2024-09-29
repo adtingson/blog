@@ -25,6 +25,7 @@ But to start, here are a few tags to start with:
 This is where I would place things that I like people *to read or checkout*. Mostly my *close-to-heart interests*.
 
 - My *favorite* board game: [[Root Game|Root: A Game of Woodland Might and Right ⚔️🌲]]
+- A *cute card game* I enjoyed playing with old workmates: [[Here to Slay|Here to Slay ⚔️]]
 
 ## Essays So Far…
 
