@@ -39,9 +39,9 @@ h6 {
 
 /* Custom Fonts or Typography */
 body {
-	--bodyFont: "Public Sans",Blobs,Blobmoji;
-	--headerFont: "Hack",Blobs,Blobmoji;
-	--codeFont: "Hack",Blobs,Blobmoji;
+	--bodyFont: "JetBrains Mono",Blobs,Blobmoji;
+	--headerFont: "JetBrains Mono",Blobs,Blobmoji;
+	--codeFont: "JetBrains Mono",Blobs,Blobmoji;
 }
 
 /* List Stylings*/
@@ -88,7 +88,29 @@ ul.section-ul li.section-li {
 	color: var(--darkgray);
 }
 
-/* Center H1 and Make it small-caps*/
+/* Center H1*/
 h1 {
-	font-variant: small-caps;
+	text-align: center;
+}
+
+/* Fix for Folders */
+li h3 {
+	line-height: 2.25rem;
+}
+
+/* Margins for Lists, and Paragraphs */
+ul {
+	margin-top: 0px;
+	margin-bottom: 1.5em;
+	padding-left: 2em;
+}
+
+p {
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+	padding: 0;
+}
+
+p:has(+ ul) {
+	margin-bottom: 0;
 }
